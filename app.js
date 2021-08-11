@@ -75,7 +75,7 @@ function addAmount(event) {
     new Donation(name,amount,age);
 
     for (let i = 0; i < allDonator.length; i++) {
-        // allDonator[i].getRndAge();
+        allDonator[i].getRndAge(20,60);
         allDonator[i].render();
         
     }
@@ -98,3 +98,4 @@ function getlocalStorage() {
         }
     }
 }
+getlocalStorage();
