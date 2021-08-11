@@ -1,0 +1,40 @@
+header{
+    text-align: center;
+    font-size: x-large;
+    color: #f5f5f5;
+    background-color: #1F1F1F;
+}
+body{
+    background-image:url("https://alqudscollege-my.sharepoint.com/personal/advtech_ltuc_com/Documents/Academia/Courses/Code%20Fellows%20Courses/Entrance%20Exam/301%20Entrance%20Exam/201d27/school.jpg");
+}
+#form {
+    background-color:rgba(114, 104, 211, 0.8);
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 60px;
+    margin-right: 1500px;
+
+}
+fieldset{
+    text-align: center ;
+}
+#parent{
+    background-color:rgba(114, 104, 211, 0.8);
+    margin-top: 50px;
+    margin-bottom: 100px;
+    padding-top: 50px;
+    padding-bottom: 500px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 900px;
+    margin-right: 400px;
+
+}
+table,tr,th,td{
+    border: 1px solid #ddd;
+    background-color:#1F1F1F;
+    color: #f5f5f5;
+}
